@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(./img/L9hwo8se9R8bING.jpg);
+      background-size: 1680px 970px;
+    background-repeat: no-repeat;
+  }
+
+
+  
+  header {
+    padding: 20px;
+    text-align: center;
+    margin: 6px;
+    padding: 7px;
+    color:rgb(86, 151, 221);
+
+  }
+  
+  nav {
+    background-color:rgb(86, 151, 221);
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  nav ul li a:hover {
+    background-color:rgb(86, 151, 221);
+  }
+  
+  section {
+    padding: 30px;
+    text-align: center;
+  }
+  
+  footer {
+    background-color:rgb(86, 151, 221);
+    text-align: center;
+    padding: 10px;
+  }
+  .p1{
+    font-size: larger;
+    
+  }
+  .products a{
+    color:black;
+    text-decoration: none;
+
+  }

@@ -1,0 +1,23 @@
+    body{
+        background-image: url(.//img/L9hwo8se9R8bING.jpg);
+    }
+    
+    nav {
+    /* background-color:rgb(86, 151, 221); */
+    padding: 10px;
+  }
+  nav ul li {
+    display: inline;
+  }
+  nav ul li a {
+    color: rgb(86, 151, 221); ;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }

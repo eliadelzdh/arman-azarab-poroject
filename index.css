@@ -1,16 +1,14 @@
-* {
-  margin: 0;
-  box-sizing: border-box;
-}
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-image: url(./img/L9hwo8se9R8bING.jpg);
-      background-size: 1680px 970px;
-    background-repeat: no-repeat;
-  }
 
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("./img/L9hwo8se9R8bING.jpg");
+  background-size: 1680px 970px;
+  background-position: center center; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+}
 
   
   header {
@@ -66,5 +64,5 @@ body {
   .products a{
     color:black;
     text-decoration: none;
-
   }
+  

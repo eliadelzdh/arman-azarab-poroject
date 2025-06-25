@@ -1,10 +1,15 @@
-* {
+
+body {
   margin: 0;
-  box-sizing: border-box;
+  padding: 0;
+  background-image: url("./img/L9hwo8se9R8bING.jpg");
+  background-size: 1680px 970px;
+
+  background-position: center center;
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+  height: 100vh; 
 }
-body{
-        background-image: url(.//img/L9hwo8se9R8bING.jpg);
-    }
     
     nav {
     /* background-color:rgb(86, 151, 221); */
